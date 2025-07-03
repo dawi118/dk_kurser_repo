@@ -16,7 +16,7 @@ This repository relates to a series of .ipynb documents for extracting informati
 
 Note, the codebase is designed to handle inputs in both Danish and English, and output the above details in JSON format.
 
-**Output Quality (2023/24)**
+**Output Quality (One study board, 2023/24)**
 
 See below for % missing data across scraped fields - note that knowledge, skills and competencies are extracted from 'content'. If these are reported missing, then it is likely that the content fails to touch on these areas.
 
