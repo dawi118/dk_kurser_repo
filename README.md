@@ -14,9 +14,9 @@ This repository relates to a series of .ipynb documents for extracting informati
 - Competencies
 - Other information
 
-Note, the codebase is designed to handle inputs in both Danish and English, and output the above details in JSON format.
+Note, codebases are designed to handle inputs in both Danish and English, and produce output in JSON format.
 
-**Output Quality (all study boards, all years)**
+**Output Quality (all study boards, all years, from dk_kurser_total_scrape.ipynb)**
 
 See below for distribution of missing data across scraped fields for all courses across scoped academic years:
 
