@@ -25,9 +25,9 @@ See below for distribution of missing data across scraped fields for all courses
 Note that:
 
 - The code successfully scrapes course information for c. 98% of courses across all years.
-- Knowledge, skills and competencies are extracted based on keyword searches from the parent 'content' field - where a keyword match fails (in Danish or English), these are marked as missing. However, NLP methods could be used downstream to extract this inforamtion from the content field.
-- Course content follows an increasingly formulaic format in later years, explaining higher levels of missingness in older course information.
-- Coordinator emails are intentionally left in their obfuscated format - these can be de-anonymised downstream on JSON output files.
+- Knowledge, skills and competencies are extracted based on keyword searches from the parent 'content' field - where a keyword match fails (in Danish or English), these are marked as missing. However, NLP methods could be used downstream to extract this information from the content field.
+- Course content follows an increasingly formulaic format in later years, explaining higher levels of missingness in 'older' course information.
+- Coordinator emails have been cleaned and de-anonymised.
 
 Analysis was also undertaken to understand continuity across text fields over time:
 
