@@ -1,6 +1,6 @@
 # dk_kurser_repo
 
-This repository relates to a series of .ipynb documents for extracting information from (archived) course webpages run by the University of Copenhagen. Information extracted includes but may not be limited to:
+This repository relates to a series of .ipynb documents for extracting information from (archived) course webpages run by the University of Copenhagen & Aarhus (in progress). Information extracted includes but may not be limited to:
 
 - Year
 - Course code
@@ -18,7 +18,7 @@ Note, codebases are designed to handle inputs in both Danish and English, and pr
 
 **Output Quality (all study boards, all years, from dk_kurser_total_scrape.ipynb)**
 
-See below for distribution of missing data across scraped fields for all courses across scoped academic years (Copenhegen):
+See below for distribution of missing data across scraped fields for all courses across scoped academic years (Copenhagen):
 
 <img width="1392" height="790" alt="image" src="https://github.com/user-attachments/assets/dcf7e301-efab-4565-be67-fa47616bfe4e" />
 
