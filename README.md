@@ -18,9 +18,10 @@ Note, codebases are designed to handle inputs in both Danish and English, and pr
 
 **Output Quality (all study boards, all years, from dk_kurser_total_scrape.ipynb)**
 
-See below for distribution of missing data across scraped fields for all courses across scoped academic years:
+See below for distribution of missing data across scraped fields for all courses across scoped academic years (Copenhegen):
 
-<img width="1392" height="790" alt="image" src="https://github.com/user-attachments/assets/539bedb6-58ce-4ae4-8f8e-8b1d87170d2f" />
+<img width="1392" height="790" alt="image" src="https://github.com/user-attachments/assets/dcf7e301-efab-4565-be67-fa47616bfe4e" />
+
 Note that:
 
 - The code successfully scrapes course information for c. 98% of courses across all years.
