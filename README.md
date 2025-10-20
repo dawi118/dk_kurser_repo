@@ -1,6 +1,8 @@
 # dk_kurser_repo
 
-This repository relates to a series of .ipynb documents for extracting information from (archived) course webpages run by the University of Copenhagen & Aarhus (in progress). Information extracted includes but may not be limited to:
+**Overview**
+
+This repository relates to a series of .ipynb documents (2 currently) for extracting information from (archived) course webpages run by the University of Copenhagen & Aarhus. Information extracted includes:
 
 - Year
 - Course code
@@ -14,9 +16,13 @@ This repository relates to a series of .ipynb documents for extracting informati
 - Competencies
 - Other information
 
-Note, codebases are designed to handle inputs in both Danish and English, and produce output in JSON format.
+Codebases are designed to handle inputs in both Danish and English, and produce output in JSON format.
 
-**Output Quality (all study boards, all years, from dk_kurser_total_scrape.ipynb)**
+**Progress**
+
+Scraping has been undertaken for Copenhagen university for 2013-2024 and outputs have been approved by Professor Stephen Hansen and Mikkel Høst Gandil (see QA outputs below). Scraping for Aarhus is in progress, requiring a different approach to Copenhagen due to webpage semantics (plain html vs javascript). Details are located in dk_kurser_total_scrape_aarhus.ipynb.
+
+**Output Quality - Copenhagen**
 
 See below for distribution of missing data across scraped fields for all courses across scoped academic years (Copenhagen):
 
