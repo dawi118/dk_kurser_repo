@@ -1,4 +1,4 @@
-# dk_kurser_repo
+# dk_kurser_repository
 
 **1. Overview**
 
